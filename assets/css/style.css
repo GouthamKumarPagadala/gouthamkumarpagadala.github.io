@@ -988,7 +988,9 @@ footer.singup{
 .no-border-bottom{
 	border-bottom:0px solid;
 }
-.single_clients img{}
+.single_clients img{
+      padding: 2px 2px 2px 2px;
+}
 
 
 
