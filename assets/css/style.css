@@ -165,7 +165,7 @@ h1 {
     font-weight: 300;
 }
 h2 {
-    font-size: 62%;
+    font-size: 3.875em;
     line-height: 8rem;
     margin-bottom: .9rem;
     font-family: 'big_johnregular';
@@ -616,7 +616,7 @@ input:-ms-input-placeholder {
 }
 
 .main_home_content h2{
-	font-size:300%;
+	font-size:3.875em;
 	color:#70c92f;
 	text-transform:uppercase;
 	font-family: 'open_sanslight';
