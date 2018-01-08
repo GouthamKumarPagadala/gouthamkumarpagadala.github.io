@@ -652,6 +652,8 @@ input:-ms-input-placeholder {
     border: 2px solid #ddd;
 }
 .about{
+  background:url(../images/aboutbg.jpg) no-repeat top center;
+
     background-size: cover;
 	position:relative;
 
