@@ -915,7 +915,7 @@ footer.singup{
 /* Testimonial section */
 
 .testimonial{
-	background:url(../images/testimonialbg.jpg) no-repeat top center;
+	background:url(../images/aboutbg.jpg) no-repeat top center;
 	background-size:cover;
 }
 
@@ -962,7 +962,7 @@ footer.singup{
 /* clients section */
 
 .clients{
-	background:url(../images/clientbg.jpg) no-repeat top center;
+	background:url(../images/homebg.jpg) no-repeat top center;
 	background-size:cover;
 }
 
