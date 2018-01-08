@@ -915,8 +915,9 @@ footer.singup{
 /* Testimonial section */
 
 .testimonial{
-	background:url(../images/aboutbg.jpg) no-repeat top center;
+	background:url(../images/testimonialbg.jpg) no-repeat top center;
 	background-size:cover;
+
 }
 
 .main_testimonial{}
@@ -962,8 +963,9 @@ footer.singup{
 /* clients section */
 
 .clients{
-	background:url(../images/homebg.jpg) no-repeat top center;
+	background:url(../images/clientbg.jpg) no-repeat top center;
 	background-size:cover;
+
 }
 
 .main_clients{
@@ -972,13 +974,13 @@ footer.singup{
 }
 .main_clients_content{}
 .single_clients{
-    border-right: 1px solid #ddd;
+    border-right: none;
     text-align: center;
     display: block;
     padding: 20px;
     width: 100%;
     height: 80px;
-    border-bottom: 1px solid #ddd;
+    border-bottom: none;
 }
 .no-border-right{
 	border-right:0px solid;
